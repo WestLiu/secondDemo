@@ -7,7 +7,7 @@ int main(){
 
     printf("我是master中创建的");
 
-    printf("crashbug中的bug已经修复好了");
+    printf("我在error-404分支中被修改");
 
 
 }
